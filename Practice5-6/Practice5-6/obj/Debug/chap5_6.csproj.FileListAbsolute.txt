@@ -1,0 +1,4 @@
+G:\C-and-c++\netHomework\Practice5-6\Practice5-6\bin\Practice5-6.dll
+G:\C-and-c++\netHomework\Practice5-6\Practice5-6\bin\Practice5-6.pdb
+G:\C-and-c++\netHomework\Practice5-6\Practice5-6\obj\Debug\Practice5-6.dll
+G:\C-and-c++\netHomework\Practice5-6\Practice5-6\obj\Debug\Practice5-6.pdb
